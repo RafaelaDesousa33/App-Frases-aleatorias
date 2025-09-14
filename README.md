@@ -25,4 +25,4 @@ O aplicativo é composto por uma única tela principal, onde o usuário pode vis
 
 O layout é definido com componentes básicos da interface do Android, como TextView e Button, organizados com ConstraintLayout ou LinearLayout, garantindo compatibilidade e responsividade em diversos tamanhos de tela.
 
-![Aplicativo Frases do Dia](./fotoAplicativo.jpg)
+![Aplicativo](aplicativoFraseAleatoria/fotoAplicativo.jpg)
