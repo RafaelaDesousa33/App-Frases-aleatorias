@@ -9,7 +9,7 @@ Um aplicativo Android simples em **Java** que exibe frases aleatórias para insp
 Este projeto tem como objetivo criar um app leve para dispositivos Android que mostra **frases aleatórias** sempre que o usuário quiser.  
 É ideal como exercício para aprender integração de UI, lógica de aleatoriedade, persistência (se desejar), e publicação no GitHub.
 
-<img src="fotoFrasesAleatoriaApp.png" alt="App Frases Aleatórias" />
+<img src="fotoFrasesAleatoriaApp.png" alt="App Frases Aleatórias" width="400px" />
 ---
 
 ## ✅ Funcionalidades (versão atual)
@@ -54,6 +54,7 @@ Clone este repositório:
 bash
 Copiar código
 git clone https://github.com/RafaelaDesousa33/App-Frases-aleatorias.git
+
 
 
 
