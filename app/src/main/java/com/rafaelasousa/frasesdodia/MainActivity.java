@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
     String[] frases = {
             "Frase 01",
             "Frase 02",
-            "Frase 03"
+            "Frase "
     };
 
 
